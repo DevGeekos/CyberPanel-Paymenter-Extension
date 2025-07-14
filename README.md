@@ -8,7 +8,7 @@ Automatisez la gestion de votre hébergement web en connectant le système de fa
 
 # Installation
 1. ```mkdir /var/www/paymenter/extensions/Servers/CyberPanel && cd /var/www/paymenter/extensions/Servers/CyberPanel```
-2. ```wget https://raw.githubusercontent.com/DevGeekos/CyberPanel-Paymenter-Extension/refs/heads/main/CyberPanel.php```
+2. ```wget https://raw.githubusercontent.com/TheOrion-OVH/CyberPanel-Paymenter-Extension/refs/heads/main/CyberPanel.php```
 3. ```cd /var/www/paymenter```
 4. ```php artisan optimize:clear```
 
