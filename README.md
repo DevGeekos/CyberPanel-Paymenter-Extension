@@ -11,6 +11,7 @@ Automatisez la gestion de votre hébergement web en connectant le système de fa
 2. ```wget https://raw.githubusercontent.com/DevGeekos/CyberPanel-Paymenter-Extension/refs/heads/main/CyberPanel.php```
 3. ```cd /var/www/paymenter```
 4. ```php artisan optimize:clear```
+
 Et voilà !
 
 # Utilisation
@@ -23,6 +24,7 @@ Et voilà !
 Vous pouvez aussi créer une configurable option permettant à l'utilisateur de choisir son nom de domaine !
 1. Allez dans Config Options
 2. Faites Créer
+
 Remplissez comme sur l'image
 <img width="1426" height="607" alt="image" src="https://github.com/user-attachments/assets/05a2d09f-5bb7-418e-b044-9ea751df3a3f" />
 
